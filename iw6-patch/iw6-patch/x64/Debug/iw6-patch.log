@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating Code...
+  iw6-patch.vcxproj -> C:\Users\TempAdmin\Desktop\AB\iw6-patch\iw6-patch\x64\Debug\iw6-patch.dll
